@@ -12,5 +12,5 @@ The original project is documented at followings.
 http://www.amaoka.com/?p=29
 http://www.siggraph.org/s2003/conference/etech/plusoned.html
 
-[Journal](Japanese)
+[Journal]
 https://www.jstage.jst.go.jp/article/artsci/8/2/8_2_90/_article/cited-by/-char/ja/
