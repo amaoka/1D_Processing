@@ -5,9 +5,9 @@ Recreate +1D in Processing (very simple version)
 
 This is a Processing sketch recreated +1D.
 
-+1D is published by Toshitaka Amaoka at SIGGRAPH 2003 Emerging Technologies.
++1D was recreated as Toshitaka Amaoka's thesis at NYU ITP in 2002 and also was exhibited by Toshitaka Amaoka at SIGGRAPH 2003 Emerging Technologies.
 
-Provided code is implemented only one graphics which is pixels.
+This code is implemented only one graphics which is pixels.
 
 The original project is documented at followings.
 
