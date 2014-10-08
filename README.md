@@ -1,7 +1,7 @@
 1D_Processing
 =============
 
-1D_Processing is Processing version of +1D. (very simple version)
+1D_Processing is Processing version of +1D. (simple version)
 
 
 
